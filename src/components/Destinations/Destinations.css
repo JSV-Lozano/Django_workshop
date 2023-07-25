@@ -1,0 +1,57 @@
+#Tour {
+  margin-top: 140px;
+  margin-bottom: 240px;
+}
+.vacationplan_container-text > h2 > span {
+  font-family: Volkhov;
+  color: #fa7436;
+  margin-left: 5px;
+}
+.vacationplan_container-text > p {
+  font-size: 18px;
+  color: #666666;
+}
+.container-cards {
+  margin-top: 60px;
+}
+.card-container {
+  width: 18rem;
+}
+.rating > img {
+  width: 13px;
+  height: 16px;
+}
+.rating > p {
+  color: #666666;
+}
+.fly-days > img {
+  width: 16px;
+  height: 16px;
+}
+.prices > p {
+  color: #fa7436;
+}
+.img-Card_container:hover .container_card-Button button {
+  opacity: 1;
+  transform: translateY(-150%);
+}
+.img-Card_container button {
+  width: 132px;
+  height: 50px;
+  background: #fa7436;
+  border-radius: 8px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  transform: translateY(-50px);
+  transition: 0.3s ease-in-out all;
+  opacity: 0;
+  margin: 0 auto;
+}
+.img-Card_container img {
+  cursor: pointer;
+  transition: 0.3s ease-in all;
+}
+.img-Card_container img:hover {
+  filter: grayscale(70%);
+}

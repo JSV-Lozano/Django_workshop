@@ -1,0 +1,41 @@
+.ceoAbouts-container {
+  margin-left: 50px;
+  margin-bottom: 262px;
+}
+.container-peopleWhat {
+  margin-right: 126px;
+}
+.container-peopleWhat > div {
+  width: 24rem;
+}
+.container-peopleWhat > div > h2 {
+  font-family: Volkhov;
+}
+.container-peopleWhat > div > h2 > span {
+  color: #fa7436;
+}
+.text-aboutPeople {
+  font-size: 18px;
+  line-height: 32px;
+  color: #666666;
+}
+.arrows-container_AboutPeople {
+  width: 50px;
+  height: 50px;
+}
+.container_card-Mike {
+  width: 24rem;
+}
+.container_cardBody-Mike > p {
+  font-size: 18px;
+  line-height: 32px;
+  color: #666666;
+}
+.container-Chris {
+  margin-left: 40px;
+}
+.container-Chris > h6 {
+  font-size: 18px;
+  line-height: 32px;
+  color: #b4aeae;
+}

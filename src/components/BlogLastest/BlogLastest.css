@@ -1,0 +1,16 @@
+.container_BlogLastest {
+  margin-bottom: 178px;
+}
+.blogLastest-Title > h2 {
+  font-family: Volkhov;
+}
+.blogLastest-Title > h2 > span {
+  color: #fa7436;
+}
+.card-container {
+  width: 18rem;
+}
+.fecha-card {
+  font: italic;
+  color: #666666;
+}

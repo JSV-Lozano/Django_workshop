@@ -1,0 +1,22 @@
+#Blog {
+  background-color: #fa7436;
+  width: 1170px;
+  height: 416px;
+}
+.container-subscribe > h2 {
+  font-family: Volkhov;
+  color: white;
+  margin-bottom: 64px;
+}
+.logo-email > a {
+  width: 50px;
+  height: 50px;
+}
+.button_input-subscribe {
+  border-radius: 6px !important;
+  background-color: #fa7436 !important;
+  color: white !important;
+}
+.input-group {
+  align-items: center;
+}

@@ -1,0 +1,11 @@
+.logo {
+  margin-right: 100px;
+}
+.login {
+  color: #fd8d3a;
+}
+.sign-up {
+  background-color: #fa7436 !important;
+  width: 160px;
+  height: 50px;
+}

@@ -1,0 +1,34 @@
+.container_Home {
+  margin-right: 96px;
+}
+.title_Home {
+  margin-bottom: 32px;
+  margin-top: 141px;
+  max-width: 100%;
+}
+.title-container_Home > h1 > .journey {
+  margin: 0 5px 0 5px;
+  color: #fa7436;
+}
+.text-experienced {
+  font-size: 1.25em;
+  margin-bottom: 64px;
+}
+.Button_now {
+  border: 0.5px solid #fa7436 !important;
+  width: 178px;
+  height: 60px;
+  color: #fa7436 !important;
+}
+@media screen and (min-width: 530px) {
+  h1 {
+    font-size: 4em !important;
+  }
+  .p-container_Home {
+    width: 497px;
+    height: 120px;
+  }
+  .title-container_Home {
+    width: 521px !important;
+  }
+}

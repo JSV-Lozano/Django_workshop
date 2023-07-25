@@ -1,0 +1,14 @@
+.accordion {
+  margin-top: 59px;
+}
+.explore_now {
+  background-color: #fa7436 !important;
+  width: 165px;
+  height: 60px;
+  margin-left: 0px;
+}
+@media screen and (max-width: 576px) {
+  .accordion-item {
+    margin-left: 20px;
+  }
+}

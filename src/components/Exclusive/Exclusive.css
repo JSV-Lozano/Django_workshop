@@ -1,0 +1,52 @@
+#Destination {
+  margin-top: 240px;
+  margin-bottom: 120px;
+}
+.exclusive-Container > h2 {
+  font-size: 48px;
+}
+.exclusive-Container > h2 > span {
+  color: #fa7436;
+}
+.exclusive-Container > p {
+  font-size: 18px;
+  line-height: 32px;
+  color: #666666;
+}
+.card-container {
+  width: 18rem;
+}
+.container_image {
+  width: 48px;
+  height: 24px;
+}
+.container_image > img {
+  width: 16px;
+  height: 16px;
+}
+.img_mapIcon {
+  width: 66.57px;
+  height: 20px;
+}
+.img_mapIcon > img {
+  width: 13px;
+  height: 16px;
+}
+.img_mapIcon > p {
+  margin-bottom: 0 !important;
+  color: #666666;
+}
+.price_container {
+  width: 110px;
+  height: 28px;
+}
+.price_desc {
+  text-decoration: line-through;
+  color: #999999;
+}
+.price_org {
+  color: #fa7436;
+}
+.container_price > p {
+  margin: 0;
+}
